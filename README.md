@@ -55,8 +55,6 @@
    - DELETE untuk menghapus data
  
   
- ## Responsive Web Design
-  
  # Responsive Web Design
  
 -  Responsive Web Desin yaitu suatu tampilan website yang dapat menyesuikan dengan perangkat yang digunakan
