@@ -118,11 +118,7 @@
   
   - Align items
   
-  - Contoh :
-  
-
-  - ![align](https://user-images.githubusercontent.com/64596495/184914490-9233304c-402e-4a70-978d-c34cbd43b44e.JPG)
-
+ 
 - Grid merupakan sistem tata letak berbasis dua dimensi.
 
 - Pada Grid ada 2 jenis yaitu grid container dan grid item.
